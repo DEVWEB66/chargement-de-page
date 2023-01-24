@@ -1,0 +1,20 @@
+.loader{
+	background: url('loader.gif') 50% 50% no-repeat rgba(255, 255, 255, 0.8);
+	cursor: wait;
+	height: 70%;
+    position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 1000;
+}
+
+.loader h1{
+	color: #f54210;
+	font-size: 20px;
+	height: 700px;
+	line-height: 700px;
+	margin: 0 0 10px;
+	padding: 0;
+	text-align: center;
+}
